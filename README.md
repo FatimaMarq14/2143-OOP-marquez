@@ -6,6 +6,7 @@
 #### Image: 
 
 #### Avatar:
+https://avatars.githubusercontent.com/u/123118716?s=400&v=4
 
 ##  Assignments Folder
 
