@@ -4,9 +4,9 @@
 #### Email: fatimamarquez0914@gmail.com
 #### Website: https://sites.google.com/my.msutexas.edu/fatimamarquez/home
 #### Image: 
-
+![]()
 #### Avatar:
-
+![]()
 ##  Assignments Folder
 
 |   #   | Folder Link | Assignment Description |
