@@ -1,7 +1,45 @@
+/*****************************************************************************
+*                    
+*  Author:           (Fatima Marquez)
+*  Email:            (fatimamarquez0914@gmail.com)
+*  Label:            (A03)
+*  Title:            (Comments)
+*  Course:           (CMPS 2143)
+*  Semester:         (Spring 2022)
+* 
+*  Description:
+*        learning how to include comments
+* 
+*  Usage:
+*        how to use the program if necessary
+* 
+*  Files:            (main.cpp)
+*****************************************************************************/
 #include <iostream>
 
 using namespace std;
 
+/**
+ * CircularArrayQue
+ * 
+ * Description:
+ *      Description of your class and what it does
+ * 
+ * Public Methods:
+ *                             CircularArrayQue()
+ *        int                  CircularArrayQue(int size)
+ *        void                 Push(int item)
+ *        int                  Pop()
+ * 
+ * Private Methods:
+ *         void                init(int size = 0)
+ *         bool                Full()
+ * 
+ * Usage: 
+ * 
+ *      
+ *      
+ */
 
 class CircularArrayQue {
 private:
