@@ -9,4 +9,4 @@ In this program we create a Vector Class.
 |   #   | File            | Description                                        |
 | :---: | --------------- | -------------------------------------------------- |
 |   1   | Main.cpp        | Main driver of my program.                         |
-|   2   | Banner.cpp      | Banner                                             |
+|   2   | Banner.txt      | Banner                                             |
